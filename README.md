@@ -1,5 +1,5 @@
 # FleissKappa_csvFile
-Code collection to compute [**Fleiss' Kappa**](https://en.wikipedia.org/wiki/Fleiss%27_kappa)annotator agreemenet given an **easy csv spreadsheet file**. Note that Fleiss Kappa is used for more than two annotators (for 2 you can use [Cohens Kappa](https://de.wikipedia.org/wiki/Cohens_Kappa)). 
+Code collection to compute [**Fleiss' Kappa**](https://en.wikipedia.org/wiki/Fleiss%27_kappa) annotator agreemenet given an **easy csv spreadsheet file**. Note that Fleiss Kappa is used for more than two annotators (for 2 you can use [Cohens Kappa](https://de.wikipedia.org/wiki/Cohens_Kappa)). 
 This Repository contains code for two different implementation that require the same input format, a **java** implementation and a '**R** implementation.
 
 # Input Format 
