@@ -3,7 +3,7 @@ Code collection to compute [**Fleiss' Kappa**](https://en.wikipedia.org/wiki/Fle
 This Repository contains code for two different implementation that require the same input format, a **java** implementation and a '**R** implementation.
 
 # Input Format 
-See for example `example_input.csv` (random), each column contains the annotation from one annotator. The first line contains the names of the annotator (can be anything). Every other line can contain numeric or categorical values. The seperator is **comma**. 
+See for example `example_input.csv` (**random** created file = low kappa), each column contains the annotation from one annotator. The first line contains the names of the annotator (can be anything). Every other line can contain numeric or categorical values. The seperator is **comma**. 
 
 # Usage
 1) for the java code see/modify the `src/KappaCSV.java` code or simply run the executable `java -jar fleisskappa.jar <inpputfile.c>`
