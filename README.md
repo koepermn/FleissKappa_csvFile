@@ -9,6 +9,6 @@ See for example `example_input.csv` (**random** created file = low kappa), each 
 1) for the java code see/modify the `src/KappaCSV.java` code or simply run the executable `java -jar fleisskappa.jar <inpputfile.c>`
 2) for the R code replace the path in the `read.csv` function in `src/fleiss_Kappa.R` and execute the script within R (e.g  by running`source('fleiss_kappa.R')`)
 # Code Reference
-The java implementation is based on  [Fleiss Kappa Java] (https://en.wikipedia.org/wiki/Fleiss%27_kappa) 
-The R implementation is based on [Fleiss Kappa R] (https://www.rdocumentation.org/packages/irr/versions/0.84/topics/kappam.fleiss)
+The java implementation is based on  [Fleiss Kappa Java](https://en.wikipedia.org/wiki/Fleiss%27_kappa) 
+The R implementation is based on [Fleiss Kappa R](https://www.rdocumentation.org/packages/irr/versions/0.84/topics/kappam.fleiss)
 
